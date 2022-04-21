@@ -1,0 +1,11 @@
+Header,Units,Description 
+date,YYYY-mm-dd,YYYY-mm-dd
+doy,,day of the year
+year,YYYY,YYYY
+mean_elev_OLD,[m],Daily average stream height
+mean_temp_OLD,degC,Daily average water temperature
+max_temp_OLD,degC,Max daily water temperature
+mean_elev_HAKAI,[m],Daily average stream height from Hakai gauge
+mean_temp_HAKAI,degC,Daily average water temperature from Hakai gauge
+max_temp_HAKAI,degC,Max daily water temperature from Hakai gauge
+mean_elev_OLDpred.GAM,[m],Predicted average stream height
